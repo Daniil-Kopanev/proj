@@ -4,10 +4,11 @@ public class MainApplication {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("1001");
+        System.out.println("---");
     }
     public static void doSomething(){
         System.out.println("123");
-        System.out.println("456");
-        System.out.println("789");
+        System.out.println(0);
+        System.out.println(0);
     }
 }
